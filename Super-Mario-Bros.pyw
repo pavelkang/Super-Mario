@@ -1,7 +1,8 @@
 #! /usr/bin/env python
 
 # Super Mario.pyw
-# All code and assets created by Chen Liuli
+# Double click to run.
+# Kai Kang
 
 import sys
 import os
